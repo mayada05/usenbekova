@@ -1,0 +1,570 @@
+body {
+	background-color: #24204A;
+	color: #fff;
+    font-family: 'TT Hoves';
+
+}
+.header {
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container {
+    max-width: 1024px;
+    padding: 20 15px;
+    margin: 0 auto;
+}
+
+.logo {
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    width: 126px;
+    height: 22px;
+    top: 10%;
+    left: 115px;
+}
+.main-nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.main-nav li {
+    display: inline-block;
+}	
+.main-nav a,
+.contact {
+    color: #fff;
+    opacity: 60%;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 40px;
+    font-size: 16px;
+}
+.contact {
+    background-color: transparent;
+    border: none;
+}
+.btn-nav {
+    font-size: 14px;
+    border-radius: 8px;
+    color: #fff;
+    width: 153px;
+    height: 46px;
+    top: 10%;
+    background-color: #4B4864;
+    border: 1px solid #8E88C1;
+}
+.line{
+	width: 1040px;
+	border: 1px solid #8E88C1;
+}
+.header__posotion{
+    width: 145px;
+    height: 41px;
+    border-radius: 8px;
+    background-color: #4B4864;
+    border: none;
+    color: #8E88C1;
+}
+.block-1 {
+    display: flex;
+}
+.div {
+    width: 45%;
+    box-sizing: border-box;
+}
+.intro__subtitle{
+    color: #8E88C1;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 5%;
+}
+.header__company {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #3F50E7;
+    border-radius: 8px;
+    width: 200px;
+    height: 56px;
+    border: none;
+    box-shadow: 8px 8px 1px 0.5px rgba(0, 255, 224, 0.1);
+}
+.block-1 {
+    margin-top: 50px;
+}
+.block-1{
+position: absolute;
+width: 500px;
+height: 393px;
+left: 23%;
+top: 12%;
+}
+.company-btn {
+position: absolute;
+top: 68%;
+	}
+
+.vector{
+	position: absolute;
+	width: 420px;
+    height: 426px;
+	left: 124%;
+    top: 0%;
+}
+.rectangle{
+	position: absolute;
+	width: 420px;
+    height: 426px;
+	left: 124%;
+    top: 0%;
+
+}
+.light{
+	position: absolute;
+	width: 380px;
+    height: 386px;
+	left: 130%;
+    top: 10%;
+
+}
+
+.bgr{
+	position: absolute;	
+	left: -100%;
+	top: 120%;
+    width: 1964px;
+    height: 764px;
+
+}
+.rectangle1{
+	position: absolute;	
+	left: 0%;
+	top: 140%;
+    width: 56.14px;
+    height: 56px;
+
+	}
+	.rectangle2{
+	position: absolute;	
+	left: 45%;
+	top: 140%;
+    width: 56.14px;
+    height: 56px;
+
+	}
+
+.rectangle3{
+	position: absolute;	
+	left: 90%;
+	top: 140%;
+    width: 56.14px;
+    height: 56px;
+
+	}
+
+.rectangle4{
+	position: absolute;	
+	left: 135%;
+	top: 140%;
+    width: 56.14px;
+    height: 56px;
+
+	}
+
+.rectangle5{
+	position: absolute;	
+	left: 180%;
+	top: 140%;
+    width: 56.14px;
+    height: 56px;
+
+	}
+.rec1{
+	color: white;
+	position: absolute;
+    left: 15%;
+	top: 138%;
+}
+.rec2{
+	color: white;
+	position: absolute;
+    left: 60%;
+	top: 138%;
+}
+.rec3{
+	color: white;
+	position: absolute;
+    left: 105%;
+	top: 138%;
+}
+
+.rec4{
+	color: white;
+	position: absolute;
+    left: 150%;
+	top: 138%;
+}
+
+.rec5{
+	color: white;
+	position: absolute;
+    left: 195%;
+	top: 138%;
+}
+.project1{
+	color: white;
+	position: absolute;
+    left: 15%;
+	top: 143%;
+	color: #8E88C1;
+}
+.project2{
+	color: white;
+	position: absolute;
+    left: 60%;
+	top: 143%;
+	color: #8E88C1;
+}
+.project3{
+	color: white;
+	position: absolute;
+    left: 105%;
+	top: 143%;
+	color: #8E88C1;
+}
+.project4{
+	color: white;
+	position: absolute;
+    left: 150%;
+	top: 143%;
+	color: #8E88C1;
+}
+.project5{
+	color: white;
+	position: absolute;
+    left: 195%;
+	top: 143%;
+	color: #8E88C1;
+}
+.line2{
+	width: 1040px;
+	border: 1px solid #8E88C1;
+	position: absolute;
+	top: 165%;
+	left: 0%;
+}
+.section__suptitle{
+    width: 900px;
+	position: absolute;
+	text-align: center;
+	top: 165%;
+	left: 12%;
+}
+.section__title{
+	color: #8E88C1;
+    width: 900px;
+    position: absolute;
+	text-align: center;
+	top: 200%;
+	left: 12%;
+}
+.rect-1{
+position: absolute;
+width: 190px;
+height: 190px;
+top: 230%;
+left: 35%;
+}
+.rect-2{
+position: absolute;
+width: 190px;
+height: 190px;
+top: 230%;
+left: 80%;
+
+}
+
+.rect-3{
+position: absolute;
+width: 190px;
+height: 190px;
+top: 230%;
+left: 125%;
+
+}
+
+.rect-4{
+position: absolute;
+width: 190px;
+height: 190px;
+top: 230%;
+left: 170%;
+}
+.onep{
+	border-radius:10px;
+	position: absolute;
+	top: 230%;
+   left: -10%;
+
+}
+.rect-txt1{
+	position: absolute;
+	top: 255%;
+   left: 45%;
+   width: 100px;	
+   color: #8E88C1;
+
+}
+.rect-txt2{
+	position: absolute;
+	top: 255%;
+   left: 90%;
+   width: 100px;	
+   color: #8E88C1;
+
+
+}
+.rect-txt3{
+	position: absolute;
+	top: 255%;
+   left: 130%;
+   width: 150px;	
+   color: #8E88C1;
+   	text-align: center;
+
+}
+.rect-txt4{
+	position: absolute;
+	top: 255%;
+   left: 175%;
+   width: 150px;	
+   color: #8E88C1;
+   	text-align: center;
+
+}
+.map-pic{
+width: 1040px;
+height: 480px;
+position: absolute;
+left: 22.7%;
+top: 165%
+}
+.check{
+position: absolute;
+width: 118px;
+height: 30px;
+left: -2%;
+top: 293%;
+color: white;
+background : #3F50E7;
+border-radius: 20px;
+border:none;
+
+}
+.p-op{
+position: absolute;
+left: 1%;
+top: 268%;
+color:#8E88C1;
+
+}
+.text-body{
+    width: 900px;
+	position: absolute;
+	text-align: center;
+	top: 165%;
+	left: 12%;
+}
+.h2-map{
+    width: 900px;
+	position: absolute;
+	text-align: center;
+	top: 150%;
+	left: 27%;
+	font-size: 190%;
+}
+.div-contact{
+position: absolute;
+width: 449px;
+height: 380px;
+left: 50%;
+top: 172%;
+
+background: #4B4864;
+border-radius: 8px;
+}
+.back-footer{
+position: absolute;
+width: 1921px;
+height: 380px;
+left:-1% ;
+top: 216%;
+
+background: #071341;;
+
+}
+.txt-map{
+color: white;
+position: absolute;
+top: 173%;
+left: 53%;
+font-size: 35px;
+z-index: 1;
+
+}
+.p-map{
+color: #8E88C1;
+position: absolute;
+top: 180%;
+left: 53%;
+font-size: 15px;
+width: 350px;
+
+z-index: 1;
+}
+.name{
+position: absolute;
+width: 377px;
+height: 42px;
+left: 51.5%;
+top: 187%;
+background: #646081;
+border-radius: 8px;
+border:none;	
+}
+.phone{
+position: absolute;
+width: 377px;
+height: 42px;
+left: 51.5%;
+top: 193%;
+background: #646081;
+border-radius: 8px;
+border:none;	
+}
+.mail{
+position: absolute;
+width: 377px;
+height: 42px;
+left: 51.5%;
+top: 199%;
+background: #646081;
+border-radius: 8px;
+border:none;	
+}
+.btn-map{
+position: absolute;
+width: 118px;
+height: 30px;
+left: 65%;
+top: 206%;
+color: white;
+background : #3F50E7;
+border-radius: 20px;
+border:none;
+}
+.h1-footer{
+position: absolute;
+width: 34px;
+height: 19px;
+left: 35%;
+top: 220%;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+}
+.h2-footer{
+position: absolute;
+width: 150px;
+height: 100px;
+left: 50%;
+top: 220%;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+}
+
+.h3-footer{
+position: absolute;
+width: 150px;
+height: 100px;
+left: 72%;
+top: 220%;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+}
+.on-footer{
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 200%;
+width: 80px;
+position: absolute;
+left: 35%;
+top: 223%;
+
+
+
+color: #FFFFFF;
+
+}
+
+.on-footer2{
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 200%;
+width: 80px;
+position: absolute;
+left: 50%;
+top: 223%;
+
+
+
+color: #FFFFFF;
+
+}
+.icon-footer{
+	position: absolute;
+left: 73%;
+top: 225%;
+
+}
+.Koneeeccc{
+		position: absolute;
+left: 45%;
+top: 250%;
+
+}
+.prosto_tak{
+	position: absolute;
+left: 45%;
+top: 255%;
+color: chartreuse;
+}
